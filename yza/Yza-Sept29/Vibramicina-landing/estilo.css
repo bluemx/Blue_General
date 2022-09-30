@@ -21,6 +21,10 @@ header img{
     max-width: 600px;
 }
 
+#comunicado{
+    background: #dddcfc;
+}
+
 #comunicado img{
     display: block;
     margin: 0 auto;
