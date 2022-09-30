@@ -21,6 +21,9 @@ header img{
     max-width: 600px;
 }
 
+#comunicado{
+    background: #d3f5fe;
+}
 #comunicado img{
     display: block;
     margin: 0 auto;
