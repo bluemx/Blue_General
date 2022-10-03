@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    background: #01148a;
+}
+
+header img{
+    max-width: 600px;
+}
+
+#comunicado{
+    background: #ffc181;
+}
+
+#comunicado img{
+    display: block;
+    margin: 0 auto;
+    
+}
+
+
+#vigencia {
+    background: #01148a;
+    color: #ffffff;
+    font-size: 0.9rem;
+    padding: 10px;
+}
+
+#visita{
+    background: #4c77e6;
+}
+
+
+
+#compartir{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* 1fr es un espacio de columna */
+    padding: 40px 0;
+    max-width: 600px;
+    /* margin:0 auto; centra los contenidos */
+    margin: 0 auto;
+}
+
+
+#links{
+    /*Flex:  acomodo horizontal "flexible"*/
+    display: flex;
+    /* justify-content:center > Acomoda los objetos al centro horizontalmente */
+    justify-content: center;
+    /* permite salto de línea si el objeto ya no cabe */
+    flex-wrap: wrap;
+    padding: 40px 0;
+}
+#links a{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #01148a;
+    font-size: 0.9rem;
+}
+
+
+#apps{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 600px;
+    /* margin:0 auto; centra los contenidos */
+    margin: 0 auto;
+}
+#apps img{
+    max-width: 160px;
+}
+
+
+#frase{
+    padding: 40px;
+    color: #011689;
+    font-size: 1.2rem;
+}
+
+
+#legales{
+    padding: 40px;
+    color: #011689;
+    font-size: 0.8rem;
+}
+#legales a{
+    color: #011689;
+    font-weight: bold;
+    text-decoration: none;
+}
+#legales a:hover{
+    color: #8db8e6;
+}
+
+
+
+#powered{
+    text-align: right;
+    padding: 10px 30px;
+}
+#powered img{
+    width: 140px;
+}
+
+#plecaB{
+    background: #8db8e6;
+    padding: 10px;
+    font-size: 0.7rem;
+    color: white;
+}
+#plecaB a{
+    color: #011e41;
+    text-decoration: none;
+}
+
+#plecaB img{
+    width: 48px;
+}
