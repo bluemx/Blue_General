@@ -95,7 +95,10 @@ header img{
 #legales{
     padding: 40px;
     color: #011689;
-    font-size: 0.8rem;
+    font-weight: 100;
+    line-height: 1.42857143;
+    letter-spacing: 0.06em;
+    font-size: 8.5pt;
 }
 #legales a{
     color: #011689;
