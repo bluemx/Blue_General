@@ -21,19 +21,12 @@ header img{
     max-width: 600px;
 }
 
-#comunicado{
-    background: #2e33a1;
-    display: flex;
-    flex-wrap: wrap;
-   
-    justify-content: center;
-    padding: 20px 20px 20px 20px;
-}
+
 
 
 #banner
 {
-    background: #ffffff;
+    background: #01148a;
 }
 
 #banner img
