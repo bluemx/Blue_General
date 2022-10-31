@@ -1,0 +1,43 @@
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-text align="center" font-size="20px" font-weight="bold" color="#005fb6">¡Descarga gratis la App!</mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding="0">
+	<mj-column>
+    <mj-text font-size="16px" color="#444">
+    	*Mantente informado sobre las promociones y preventas.
+      </br>
+      </br>
+      *Agrega los cumpleaños de tus amigos y familiares para que te recordemos cuando se acerque la fecha y no olvides su regalo.
+      </br>
+      </br>
+      *Genera tu Código de Canje Club Juguetron, con el cual podrás hacer uso de tus puntos en Tienda física.
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-column>
+  	<mj-image src="QR.jpg" width="160px" padding="0"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-column>
+  	<mj-text align="center" font-size="12px">Disponible en:</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-group width="50%">
+  <mj-column>
+  	<mj-image href="https://play.google.com/" src="googleplay.png" width="120px"></mj-image>
+  </mj-column>
+  <mj-column>
+  	<mj-image href="https://apps.apple.com/" src="appstore.png" width="120px"></mj-image>
+  </mj-column>	
+  </mj-group>	
+</mj-section>

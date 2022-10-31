@@ -1,0 +1,53 @@
+<mj-section>
+  <mj-column>
+    <mj-text font-size="18px" align="center">
+      <img style="vertical-align:bottom;" src="pregunta.png" width="24px"></img> ¿Tienes dudas?, consulta nuestras
+      <a href="https://www.juguetron.mx/preguntas-frecuentes" target="_blank" style="text-decoration:none; font-weight:bold; color:#0baae2;">Preguntas frecuentes</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section background-color="#f0f1f2" padding-bottom="0">
+	<mj-column>
+    <mj-text font-size="16px" align="center">
+      El presente correo contiene información que es confidencial y también puede contener información privilegiada. Es para uso exclusivo del destinatario. Si usted recibió este correo por error por favor notifíquelo por correo electrónico a <a href="mailto:atencionalcliente@juguetronsupport.zendesk.com" target="_blank" style="color:#38a744; text-decoration:none; font-weight:bold;">atencionalcliente@juguetronsupport.zendesk.com</a> o por teléfono al <a href="https://wa.me/525579185892" target="_blank" style="color:#38a744; text-decoration:none; font-weight:bold;">55 7918 5892</a>.
+      </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="6px" background-color="#f0f1f2">
+	<mj-column>
+  	<mj-text font-weight="bold" align="center" font-size="16px">¡Gracias por Jugar con Nosotros!</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-top="4px" padding-bottom="10px" background-color="#f0f1f2">
+	<mj-column>
+  	<mj-text align="center" font-size="16px">Atentamente, </br>Grupo Juguetron</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0"  background-color="#f0f1f2">
+	<mj-column>
+		<mj-divider border-color="#38a744" ></mj-divider>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#f0f1f2">
+	<mj-column>
+  	<mj-text align="center" font-size="14px">
+      Valoramos tu privacidad. Por favor consulta nuestros <a href="https://www.juguetron.mx/terminos-y-condiciones" target="_blank" style="color:#005cb2; text-decoration:none; font-weight: bold;">Términos y Condiciones</a> y <a href="https://www.juguetron.mx/politicas-de-privacidad" target="_blank" style="color:#005cb2; text-decoration:none; font-weight: bold;">Aviso de Privacidad</a>. Si desea dejar de recibir nuestro boletín de información da clic en la parte inferior.
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-top="0" background-color="#f0f1f2">
+	<mj-column>
+  	<mj-text align="center" font-size="14px">
+      ©2022 Grupo Juguetron®, Todos los derechos reservados.
+Insurgentes Sur 360, Col. Roma Sur, Alcaldía Cuauhtémoc, CDMX, 06700, México.
+    </mj-text>
+  </mj-column>
+</mj-section>
+

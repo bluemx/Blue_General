@@ -1,0 +1,7 @@
+<mj-section padding="0">
+
+  <mj-column>
+		<mj-image src="header.jpg" padding="0" ></mj-image>
+  </mj-column>
+
+</mj-section>

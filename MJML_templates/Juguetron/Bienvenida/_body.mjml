@@ -1,0 +1,53 @@
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="25px">Hola {{{Nombre}}}</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column>
+    <mj-text align="center" font-size="18px"> Estamos muy contentos de que te hayas afiliado al Programa <strong style="color:#38a744;">Club Juguetron</strong></mj-text>
+  </mj-column>
+</mj-section>
+    <mj-section>
+    	<mj-column >
+        <mj-text font-weight="regular" align="left" font-size="18px" color="#000" font-family="blinker">Ahora podrás:</mj-text>
+
+        <mj-text align="left" font-weight="regular" font-size="16px" color="#000000">
+        	<span style="color:#0baae2; font-size:22px; vertical-align:middle; font-family:sans-serif;">•</span> Acumular puntos en cada compra donde cada punto vale $1 MXN<br>
+          <span style="color:#0baae2; font-size:22px; vertical-align:middle; font-family:sans-serif;">•</span> Mantenerte informado sobre las promociones y preventas<br>
+          <span style="color:#0baae2; font-size:22px; vertical-align:middle; font-family:sans-serif;">•</span> Utiliza tus puntos para comprar en Tienda física o en línea<br>
+          <span style="color:#0baae2; font-size:22px; vertical-align:middle; font-family:sans-serif;">•</span> Agregar los cumpleaños de tus amigos y familiares para que  te recordemos
+cuando se acerque la fecha y no olvides su regalo<br>
+          <span style="color:#0baae2; font-size:22px; vertical-align:middle; font-family:sans-serif;">•</span> Genera tu Código de Canje <b>Club Juguetron</b>, con el cual podrás hacer uso de tus puntos
+        </mj-text>
+        
+
+      </mj-column>
+    </mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="18px"> Este es el Código QR de tu tarjeta <strong style="color:#38a744;">Club Juguetron</strong>: </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+     <mj-column>
+    <mj-image src="{{{imagen}}}" width="160px"></mj-image>
+  </mj-column>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text align="center">
+      {{{tarjeta}}}
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+
+

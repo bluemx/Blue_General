@@ -1,0 +1,33 @@
+<mj-section>
+    	<mj-column vertical-align="middle" >
+      	<mj-text align="center" font-weight="bold">¡Empieza a acumular puntos!</mj-text>
+      	<mj-image src="https://via.placeholder.com/300"></mj-image>
+        <mj-image src="boton.png" href=""></mj-image>
+      </mj-column>
+      <mj-column width="60px">
+         <mj-text align="center" font-weight="bold">o</mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+         <mj-text align="center" font-weight="bold">¡Descarga gratis la App!</mj-text>
+         <mj-image src="QR.jpg"></mj-image>
+				
+
+        <mj-table>
+        	<tr>
+          	<td>
+              <a href="https://apps.apple.com/us/app/club-juguetron/id1644905627">
+              <img src="appstore.png" width="100%" />
+              </a>
+            </td>
+            <td>
+              <a href="https://play.google.com/store/apps/details?id=com.BluePureLoyalty.clubjuguetron">
+              <img src="googleplay.png" width="100%" />
+                </a>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+
+

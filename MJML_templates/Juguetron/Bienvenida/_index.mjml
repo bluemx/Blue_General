@@ -1,0 +1,15 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Blinker" href="https://fonts.googleapis.com/css2?family=Blinker&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-text font-family="Blinker, Helvetica, Arial, sans-serif;" align="center" color="#555" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-include path="./_header.mjml" />
+    <mj-include path="./_body.mjml" />
+    <mj-include path="./_app.mjml" />
+    <mj-include path="./_footer.mjml" />
+    <mj-include path="./_pleca.mjml" />
+  </mj-body>
+</mjml>

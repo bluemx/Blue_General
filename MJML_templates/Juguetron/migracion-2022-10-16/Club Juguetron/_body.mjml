@@ -1,0 +1,43 @@
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="25px">Hola {{{Nombre}}}</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column>
+    <mj-text align="center" font-size="18px"> Hemos renovado nuestro programa de lealtad <strong style="color:#38a744;">Club Juguetron</strong>, con el cuál tendrás mayores beneficios, un mejor seguimiento al control de tus puntos, promociones exclusivas, ¡y mucho más! </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-top="0">
+  <mj-column>
+    <mj-text align="center" font-size="18px"> Actualmente en tu cuenta {{{#tarjetaanterior}}} tienes un saldo de {{{saldoactual}}} Puntos, los cuáles migrarán a tú nueva cuenta Club Juguetron al dar clic en el siguiente botón y actualizar tu contraseña. Recuerda que será totalmente confidencial. </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column>
+    <mj-button border-radius="10px" background-color="#005cb2" font-size="20px" href="{{{HASH}}}">Actualiza tu contraseña</mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="18px"> El código QR de tu nueva tarjeta <strong style="color:#38a744;">Club Juguetron</strong>: </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text align="center">
+      {{{tarjeta}}}
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="18px"> Recuerda que podrás utilizar tus Puntos para comprar en Tienda física o en Tienda en Línea. </mj-text>
+  </mj-column>
+</mj-section>
+
