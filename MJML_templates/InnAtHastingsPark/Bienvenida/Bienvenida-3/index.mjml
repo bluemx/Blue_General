@@ -1,0 +1,38 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#4f504f" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#fff">
+
+    <mj-include path="../templates/_header.mjml" />
+    <mj-include path="../templates/_registration.mjml" />	
+    <mj-include path="../templates/_benefits.mjml" />	
+    
+    <mj-section background-color="#f5f5f5" border-radius="6px">
+      <mj-column>
+        <mj-button href="https://www.innathastingsparkrewards.com/" background-color="#b3525a" font-size="20px" border-radius="0" border="4px solid #fff;">GO TO SITE</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="18px">You can now log in to your account on the <strong style="color:#385173;">Inn at Hastings Park Rewards</strong> App where you will be able to:</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    
+    <mj-include path="../templates/_sitelist.mjml" />	
+    <mj-include path="../templates/_app.mjml" />
+    <mj-include path="../templates/_footer.mjml" />
+    <mj-include path="../templates/_plecablue.mjml" />
+
+  </mj-body>
+
+</mjml>

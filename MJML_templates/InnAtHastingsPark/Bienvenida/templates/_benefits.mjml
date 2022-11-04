@@ -1,0 +1,25 @@
+<mj-section>
+	<mj-column>
+    <mj-image padding="0" src="benefits_1.png" width="150px"></mj-image>
+  </mj-column>
+	<mj-column>
+    <mj-image padding="0" src="benefits_2.png" width="150px"></mj-image>
+  </mj-column>
+	<mj-column>
+    <mj-image padding="0" src="benefits_7.png" width="150px"></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-image padding="0" src="benefits_3.png" width="150px"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-image padding="0" src="benefits_4.png" width="150px"></mj-image>
+  </mj-column>
+	<mj-column>
+    <mj-image padding="0" src="benefits_6.png" width="150px"></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-image padding="0" src="benefits_5.png" width="150px"></mj-image>
+  </mj-column>
+</mj-section>

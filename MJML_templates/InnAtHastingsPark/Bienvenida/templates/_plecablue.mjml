@@ -1,0 +1,12 @@
+<mj-section padding-bottom="0">
+	<mj-column>
+  	<mj-image align="right" src="powered.png" width="120px"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#8bb7e9" padding="8px">
+	<mj-column>
+  	<mj-image padding="0" src="bluecircle.png" width="40px" href="https://bluepureloyalty.com/"></mj-image>
+    <mj-text line-height="0" align="center"><a href="https://bluepureloyalty.com/" style="color:#011e41; text-decoration:none;">bluepureloyalty.com</a></mj-text>
+  </mj-column>
+</mj-section>

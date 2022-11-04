@@ -1,0 +1,7 @@
+<mj-section>
+	<mj-column>
+  	<mj-text font-weight="bold" padding="0" font-size="18px" align="center" >Your registration to the loyalty program</mj-text>
+    <mj-text align="center" font-size="30px" padding="6px" color="#c98028" font-weight="bold">Inn At Hastings Park Rewards</mj-text>
+     <mj-text font-weight="bold" padding="0" font-size="18px" align="center" >has been successful.</mj-text>
+  </mj-column>
+</mj-section>

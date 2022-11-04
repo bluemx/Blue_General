@@ -1,0 +1,20 @@
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="26px" font-weight="bold">¡Congratulations!</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="20px" padding="0">Cordially,</mj-text>
+    <mj-text align="center" font-size="24px" padding="6px" color="#c98028" font-weight="bold">Inn At Hastings Park Rewards</mj-text>
+    <mj-text align="center" font-size="20px" padding="0">Team.</mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section>
+	<mj-column>
+  	<mj-text align="justify" color="#a7a7a7" letter-spacing="0.1em" line-height="1.4">This email contains information that is confidential and may also contain privileged information. It is for the exclusive use of the recipient. If you have received this email in error please notify us by email at <a href="mailto:info@innathastingsparkrewards.com" style="color:#c98028; text-decoration:none;">info@innathastingsparkrewards.com</a></mj-text>
+  </mj-column>
+</mj-section>

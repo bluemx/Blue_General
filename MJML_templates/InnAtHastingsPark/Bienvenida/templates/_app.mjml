@@ -1,0 +1,55 @@
+<mj-section>
+	<mj-column>
+      <mj-divider border-color="#385072"></mj-divider>
+    
+  </mj-column>
+</mj-section>
+
+<mj-section>
+	<mj-column>
+    <mj-image src="app.png" width="400px"></mj-image>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-column>
+  	<mj-text font-size="16px" align="left">
+      <img src="check.png" style="width:16px; vertical-align:bottom;" />
+      Get your <strong style="color:#385072;">Digital Card Inn at Hastings Park Rewards</strong>.</mj-text>
+    <mj-text font-size="16px" align="left">
+      <img src="check.png" style="width:16px; vertical-align:bottom;" />
+      Check your points balance.</mj-text>
+    <mj-text font-size="16px" align="left">
+      <img src="check.png" style="width:16px; vertical-align:bottom;" />
+      Consult your transactions.</mj-text>
+    <mj-text font-size="16px" align="left">
+      <img src="check.png" style="width:16px; vertical-align:bottom;" />
+      Get special promotions.</mj-text>
+    
+  </mj-column>
+</mj-section>
+
+
+<mj-section>
+	<mj-column>
+    <mj-image src="qrcode.png" width="220px" padding="0"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-column>
+   <mj-text align="center">Available in:</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+	<mj-group width="50%">
+  	<mj-column>
+    	<mj-image href="#" padding="0" src="store-as.png" width="120px"></mj-image>
+    </mj-column>
+    <mj-column>
+    	<mj-image href="#" padding="0" src="store-gp.png" width="120px"></mj-image>
+    </mj-column>
+  </mj-group>
+</mj-section>

@@ -1,0 +1,11 @@
+<mj-section padding="0">
+  <mj-column>
+		<mj-image src="header.png" padding="0"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+	<mj-column>
+  	<mj-text align="center" font-size="24px">{{{shortGreeting}}}</mj-text>
+  </mj-column>
+</mj-section>
