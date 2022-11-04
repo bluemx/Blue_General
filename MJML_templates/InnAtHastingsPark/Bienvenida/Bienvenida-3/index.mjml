@@ -29,7 +29,10 @@
 
     
     <mj-include path="../templates/_sitelist.mjml" />	
-    <mj-include path="../templates/_app.mjml" />
+
+
+
+
     <mj-include path="../templates/_footer.mjml" />
     <mj-include path="../templates/_plecablue.mjml" />
 
