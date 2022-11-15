@@ -1,0 +1,20 @@
+Report created: 
+	15/11/2022	01:13:10 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Icono_consideracion_engagement\consideracion
+
+Source files collected: For selected comps
+
+Collected comps:  
+	consideracion
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
