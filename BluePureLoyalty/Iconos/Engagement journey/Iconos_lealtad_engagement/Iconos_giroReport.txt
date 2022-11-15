@@ -1,0 +1,23 @@
+Report created: 
+	15/11/2022	01:35:17 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Iconos_lealtad_engagement
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Lealtad
+	
+Number of collected files:  1
+
+Size of collected files:  105 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\engagement journey\atraccion.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
