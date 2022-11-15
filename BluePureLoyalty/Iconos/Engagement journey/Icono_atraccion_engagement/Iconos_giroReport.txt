@@ -1,0 +1,20 @@
+Report created: 
+	15/11/2022	12:11:32 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Icono_atraccion_engagement
+
+Source files collected: For selected comps
+
+Collected comps:  
+	atraccion
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
