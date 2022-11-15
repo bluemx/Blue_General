@@ -1,0 +1,29 @@
+Report created: 
+	15/11/2022	05:10:22 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Iconos_programa_B2B_soluciones
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Programa_B2B
+	Programa_B2B Outlines 
+	
+Number of collected files:  1
+
+Size of collected files:  66 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\soluciones\Programa_B2B.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+
