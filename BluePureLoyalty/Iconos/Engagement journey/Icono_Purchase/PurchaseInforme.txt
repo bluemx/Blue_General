@@ -1,0 +1,20 @@
+Informe creado: 
+	15/11/2022	01:05:20 p. m.
+
+Nombre del proyecto: Purchase.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Loyalty\Purchase carpeta
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	Purchase
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	
