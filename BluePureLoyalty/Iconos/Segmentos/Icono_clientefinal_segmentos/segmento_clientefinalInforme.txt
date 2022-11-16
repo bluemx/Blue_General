@@ -1,0 +1,25 @@
+Informe creado: 
+	16/11/2022	11:26:15 a. m.
+
+Nombre del proyecto: segmento_clientefinal.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Segmentos\segmento_clientefinal
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	segmento_clientefinal
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	
+Efectos utilizados: 1
+
+Efecto: Posición libre
+	
+
