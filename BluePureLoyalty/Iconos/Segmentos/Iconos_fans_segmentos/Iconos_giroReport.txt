@@ -1,0 +1,28 @@
+Report created: 
+	16/11/2022	02:07:10 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Iconos_segmentos_fans
+
+Source files collected: For selected comps
+
+Collected comps:  
+	segmento fans
+	
+Number of collected files:  1
+
+Size of collected files:  87 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\Segmentos\segmento-fans.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+

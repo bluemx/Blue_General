@@ -1,0 +1,28 @@
+Report created: 
+	16/11/2022	02:07:42 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Iconos_segmentos_fuerzaVentas
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Segmento fuerza de ventas
+	
+Number of collected files:  1
+
+Size of collected files:  86 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\Segmentos\segmento-fuerzadeventas.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+
