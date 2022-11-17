@@ -1,0 +1,20 @@
+Informe creado: 
+	16/11/2022	05:05:08 p. m.
+
+Nombre del proyecto: Librerias.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Giros\Librerias carpeta
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	librerias
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	

@@ -1,0 +1,20 @@
+Informe creado: 
+	16/11/2022	06:24:48 p. m.
+
+Nombre del proyecto: Mensajeria.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Giros\Mensajeria
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	mensajeria
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	
