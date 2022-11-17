@@ -1,0 +1,28 @@
+Report created: 
+	16/11/2022	06:06:04 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\Blue_General\BluePureLoyalty\Iconos\Giros\Iconos_energia_giro
+
+Source files collected: For selected comps
+
+Collected comps:  
+	energia
+	
+Number of collected files:  1
+
+Size of collected files:  70 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\Giros\energia.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+

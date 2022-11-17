@@ -1,0 +1,28 @@
+Report created: 
+	16/11/2022	06:05:21 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\Blue_General\BluePureLoyalty\Iconos\Giros\Iconos_deportes_giro
+
+Source files collected: For selected comps
+
+Collected comps:  
+	deportes
+	
+Number of collected files:  1
+
+Size of collected files:  80 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\Giros\deportes.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+

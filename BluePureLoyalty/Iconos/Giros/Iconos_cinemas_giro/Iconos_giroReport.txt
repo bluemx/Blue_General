@@ -1,0 +1,29 @@
+Report created: 
+	16/11/2022	06:11:54 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\Blue_General\BluePureLoyalty\Iconos\Giros\Iconos_cinemas_giro
+
+Source files collected: For selected comps
+
+Collected comps:  
+	aerolineas
+	cinemas
+	
+Number of collected files:  1
+
+Size of collected files:  74 KB
+
+Collected source files: 
+	X:\Escritorio\BLUE\BluePureLoyalty\Iconos\Giros\cine.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+
