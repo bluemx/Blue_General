@@ -1,0 +1,20 @@
+Informe creado: 
+	18/11/2022	03:29:33 p. m.
+
+Nombre del proyecto: restaurantes.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Giros\restaurantes
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	restaurantes
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	

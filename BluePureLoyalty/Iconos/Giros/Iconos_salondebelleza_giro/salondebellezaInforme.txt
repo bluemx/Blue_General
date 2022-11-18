@@ -1,0 +1,20 @@
+Informe creado: 
+	18/11/2022	03:44:22 p. m.
+
+Nombre del proyecto: salondebelleza.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Giros\salondebelleza
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	Salondebelleza
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	
