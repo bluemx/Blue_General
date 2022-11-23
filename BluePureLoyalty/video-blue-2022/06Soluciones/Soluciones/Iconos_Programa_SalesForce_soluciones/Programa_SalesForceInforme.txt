@@ -1,0 +1,20 @@
+Informe creado: 
+	15/11/2022	03:49:54 p. m.
+
+Nombre del proyecto: Programa_SalesForce.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Soluciones\Programa_SalesForce
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	PROGRAMAS DE INCENTIVOS
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	

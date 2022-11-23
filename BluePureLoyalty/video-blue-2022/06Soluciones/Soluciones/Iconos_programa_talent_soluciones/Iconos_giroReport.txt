@@ -1,0 +1,25 @@
+Report created: 
+	15/11/2022	05:10:56 p. m.
+
+Project name: Iconos_giro.aep
+
+Source files collected to: 
+	X:\Escritorio\BLUE\BluePureLoyalty\composiciones\Iconos_programa_talent_soluciones
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Programa_Talent
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+

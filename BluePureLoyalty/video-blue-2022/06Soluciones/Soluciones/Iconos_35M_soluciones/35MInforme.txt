@@ -1,0 +1,29 @@
+Informe creado: 
+	16/11/2022	02:30:32 p. m.
+
+Nombre del proyecto: 35M.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\Manuel\Desktop\Logos animados\Soluciones\35M
+
+Archivos de origen recopilados: Para las comp. seleccionadas
+
+Comp. recopiladas:  
+	35M
+	
+Número de archivos recopilados: 0
+
+Tamaño de los archivos recopilados: 0 KB
+
+Procesando plugins:
+	Classic 3D
+	
+Efectos utilizados: 1
+
+Efecto: Control del deslizador
+	
+
+Capa: Capa de texto
+	Dependencias externas: 
+		Familia de fuentes: “Open Sans”, estilo de fuente: “Regular”
+
