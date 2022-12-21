@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9f02b;
+        font-family: Poppins-Medium, Poppins;
+        font-size: 18px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e9f02b;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <rect class="cls-2" x=".5" y=".5" width="108" height="30"/>
+    <text class="cls-1" transform="translate(26.83 19.15)"><tspan x="0" y="0">Enviar</tspan></text>
+  </g>
+</svg>
